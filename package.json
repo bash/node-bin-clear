@@ -1,0 +1,23 @@
+{
+  "name": "bin-clear",
+  "version": "0.0.1",
+  "description": "node equivalent of the `clear` command",
+  "author": "Ruben Schmidmeister <ruben.schmidmeister@icloud.com>",
+  "homepage": "https://github.com/bash/node-bin-clear",
+  "license": "MIT",
+  "dependencies": {},
+  "bin": {
+    "clear": "clear.js"
+  },
+  "files": [
+    "README.md", "clear.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/bash/node-bin-clear/issues",
+    "email": "ruben.schmidmeister@icloud.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bash/node-bin-clear.git"
+  }
+}
